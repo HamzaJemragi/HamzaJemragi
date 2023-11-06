@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzajemragi&label=Profile%20views&color=0e75b6&style=flat" alt="hamzajemragi" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hamzajgameri" target="blank"><img src="https://img.shields.io/twitter/follow/hamzajgameri?logo=twitter&style=for-the-badge" alt="hamzajgameri" /></a> </p>
-
 - 🌱 I’m currently learning **Python(OOP) HTML5\Css3(Bootstrap)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamzaJemragi?tab=repositories](https://github.com/HamzaJemragi?tab=repositories)
