@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @HamzaJemragi.
-- 👀 I’m interested in AI generator & Create a SiteWeb from A to Z, Create application(Web application and mobie application) and Cyber Security.
+###👋 Hi, I’m @HamzaJemragi.
 - 🌱 I’m currently learning Python(OOP) and HTML5/CSS3(Bootstrap).
 - 📫 How to reach me hamzajemragi99@gmail.com
 
