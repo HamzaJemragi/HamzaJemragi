@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm HamzaJemragi</h1>
 <h3 align="center">I'm Computer Science student from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzajemragi&label=Profile%20views&color=0e75b6&style=flat" alt="hamzajemragi" /> </p>
-
 - 🌱 I’m currently learning **Python(OOP) HTML5\Css3(Bootstrap)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HamzaJemragi?tab=repositories](https://github.com/HamzaJemragi?tab=repositories)
